@@ -1,0 +1,54 @@
+{
+    "noun": [
+
+        "cow",
+        "fence",
+        "cat",
+        "sheep",
+        "pig"
+    ],
+    "verb": [
+
+        "walking",
+        "standing",
+        "running",
+        "dreaming",
+        "crying"
+ 
+    ],
+     "helpverb": [
+
+        "is",
+        "are"
+ 
+    ],
+    "adj": [
+        "angry",
+        "fat",
+        "sad",
+        "big",
+        "tiny"
+
+    ],
+    "prep": [
+        "about ",
+        "at",
+        "behind",
+        "beneath",
+        "beside",
+        "by",
+        "down",
+        "for",
+        "in",
+        "in front of",
+        "near",
+        "on",
+        "to",
+        "with"
+    ],
+    "adverb": [],
+    "det":
+        ["The",
+        "A",
+        "An"]
+}
